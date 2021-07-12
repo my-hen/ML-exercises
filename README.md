@@ -1,1 +1,1 @@
-# stock-classification
+# ML-exercises
